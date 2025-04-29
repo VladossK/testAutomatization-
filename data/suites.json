@@ -8,13 +8,13 @@
         "name" : "TestProfileFeature",
         "children" : [ {
           "name" : "Change profile name",
-          "uid" : "d453dd54453c2aa0",
+          "uid" : "9401ac8723fc361e",
           "parentUid" : "ecec602510fca8558358a9e53be22b2c",
           "status" : "passed",
           "time" : {
-            "start" : 1745970342964,
-            "stop" : 1745970350210,
-            "duration" : 7246
+            "start" : 1745971089842,
+            "stop" : 1745971097330,
+            "duration" : 7488
           },
           "flaky" : false,
           "newFailed" : false,
